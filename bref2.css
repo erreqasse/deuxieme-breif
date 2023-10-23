@@ -226,3 +226,23 @@ nav{
 .img11s ul li{
     display: inline-block;
 }
+.buton2 button{
+    position: relative;
+    left: 100px;
+    width: 10%;
+    padding: 15px 0;
+
+   
+    
+    border: none;
+    background-color: rgb(171, 122, 63);
+    color: #fff;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.buton2 button a{
+    text-decoration: none;
+    color: #100f0f;
+} 
